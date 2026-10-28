@@ -95,21 +95,21 @@ The project includes visualizations to examine:
 - Predicted survival probability curves.
 - Brier score performance across different time horizons.
 
-![alt text](image.png)
+![alt text](https://github.com/user-attachments/assets/8e559e16-fa53-42b5-940c-ff8b5f34163f)
 <table>
   <tr>
     <td width="50%">
-      <img src="image-1.png" width="100%" alt="Brier score over time">
+      <img src="https://github.com/user-attachments/assets/4272f4e3-0f95-4c21-b8b2-46497a4ca754" width="100%" alt="Brier score over time">
       <p align="center"><em>Training & Validation Loss</em></p>
     </td>
     <td width="50%">
-      <img src="image-2.png" width="100%" alt="Feature correlation heatmap">
+      <img src="https://github.com/user-attachments/assets/4db4ed39-61ff-49d1-84dd-11cb2c54d8e6" width="100%" alt="Feature correlation heatmap">
       <p align="center"><em>Predicted Survival Curves</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="image-3.png" width="100%" alt="Survival time distribution">
+      <img src="https://github.com/user-attachments/assets/66196f30-320b-42fd-8234-80f8431f0bb0" width="100%" alt="Survival time distribution">
       <p align="center"><em>Brier Score Over Time</em></p>
     </td>
   </tr>
